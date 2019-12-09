@@ -1,5 +1,5 @@
 # Analysis of Positive Selection in Aspergillus
-In this repository I describe the workflow followed to process and analyze the data of the study "Genetic comparison of Aspergillus fumigatus with 18 other species of the genus Aspergillus reveals conservation, evolution and specific virulence genes".
+In this repository I describe the workflow followed to process and analyze the data of the study "*Genetic comparison of Aspergillus fumigatus with 18 other species of the genus Aspergillus reveals conservation, evolution and specific virulence genes*".
 
 ## Issues & Contact
 Note that these scripts were not designed to function as a fully-automated pipeline, but rather as a series of individual steps with extensive manual quality control between them. It will therefore not be straightforward to run all steps smoothly in one go. Feel free to contact me (shishir.gupta@uni-wuerzburg.de) if you run into any issue.
@@ -9,10 +9,10 @@ Additional data and material can be found here: Supplementary data and material.
 
 ## Requirements 
 
-Perl, BioPerl, T-Coffeee, Prank, Pal2Nal, Gblocks, Hyphy, PAML. All the programs should be installed and path should be added in the bash profile (Unix OS).*
+Perl, BioPerl, T-Coffeee, Prank, Pal2Nal, Gblocks, Hyphy, PAML. All the programs should be installed and path should be added in the bash profile (Unix OS).
 
 ## 1. Sequences
-All the sequences used can be downloaded from
+All the amino acid sequences used can be downloaded from here and nucleotide sequences can be downloaded from here.
 
 ## 2. Orthology analysis
 Orthology were computed using standerd protocol of OrthoMCL. Please find the access link of software [here](https://orthomcl.org/common/downloads/software/v2.0/orthomclSoftware-v2.0.9.tar.gz) and protocol for computations [here] https://orthomcl.org/common/downloads/software/v2.0/UserGuide.txtV
