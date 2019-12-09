@@ -1,25 +1,25 @@
 # Analysis of Positive Selection in Aspergillus
 In this repository I describe the workflow followed to process and analyze the data of the study "Genetic comparison of Aspergillus fumigatus with 18 other species of the genus Aspergillus reveals conservation, evolution and specific virulence genes".
 
-# Issues & Contact
+## Issues & Contact
 Note that these scripts were not designed to function as a fully-automated pipeline, but rather as a series of individual steps with extensive manual quality control between them. It will therefore not be straightforward to run all steps smoothly in one go. Feel free to contact me (shishir.gupta@uni-wuerzburg.de) if you run into any issue.
 
-# Supplementary data and material
+## Supplementary data and material
 Additional data and material can be found here: Supplementary data and material. Sequence Alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
 
-# Requirements 
+## Requirements 
 
 Perl, BioPerl, T-Coffeee, Prank, Pal2Nal, Gblocks, Hyphy, PAML. All the programs should be installed and path should be added in the bash profile (Unix OS).*
 
-# 1. Sequences
+## 1. Sequences
 All the sequences used can be downloaded from
 
-# 2. Orthology analysis
+## 2. Orthology analysis
 Orthology were computed using standerd protocol of OrthoMCL. Please find the access link of software [here](https://orthomcl.org/common/downloads/software/v2.0/orthomclSoftware-v2.0.9.tar.gz) and protocol for computations [here] https://orthomcl.org/common/downloads/software/v2.0/UserGuide.txtV
 
 The resulted cluster from orthology analysis can be obtained [here](https://funginet.hki-jena.de/data_files/76). Single copy ortholog clusters were extracted from the script ..
 
-# 3. Alignments
+## 3. Alignments
 
 `$ perl run_tcoffee.pl -i protein_cluster_dir`
 
@@ -29,7 +29,7 @@ The resulted cluster from orthology analysis can be obtained [here](https://fung
 
 `$ perl run_gblocks.pl -i directory_codon_alignments`
 
-# 4. Recombination
+## 4. Recombination
 Create a text file named as input_path.txt which should contain the full path to each tested alignment file per line.
 Place the file in the same directory as the alignment files  and execute the following command on the terminal.
 
@@ -39,7 +39,7 @@ Place the file in the same directory as the alignment files  and execute the fol
 
 `$ perl summary_breakpoint.pl -i gard_dir -o breakpoint.tab`
 
-# 5. Evolutionary analyses
+## 5. Evolutionary analyses
 
 *Generation of species tree*
 Keep script concat_alignments.pl in the directory with amino acid sequence alignment of single copy orthologs   
