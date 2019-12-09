@@ -26,6 +26,7 @@ The resulted cluster from orthology analysis can be obtained [here](https://fung
 `$ perl run_pal2nal.pl -p protein_alignment_dir -d gene_cluster_dir -c directory_codon_alignments`
 
 *Removal of Unreliable Alignment Regions*
+
 `$ perl run_gblocks.pl -i directory_codon_alignments`
 
 # 4. Recombination
@@ -50,11 +51,13 @@ Keep script concat_alignments.pl in the directory with amino acid sequence align
 `$ raxmlHPC-PTHREADS-AVX -f a -T 2 -p 12345 -m PROTGAMMAAUTO -x 12345 -# 10000 -s concat_alignments.fa.proc -m PROTGAMMAAUTO -n T20`
 
 *For null model*
+
 `$ perl run_codeml_BS_Null.pl -s phylip -t species_tree.txt -o M1a > run.log &`
 
 `$ perl parse_codeml_BS_H0.pl M1a codeml-bs-M1a.txt`
 
 *For alternative model*
+
 `$ perl run_codeml_BS_modelA.pl -s phylip -t species_tree.txt -o M2a > run.log &`
 
 `$ perl parse_codeml_BS_H1.pl M2a codeml-bs-M2a.txt`
