@@ -19,13 +19,14 @@ The resulted cluster from orthology analysis can be obtained [here](https://fung
 
 Requirement - Perl, BioPerl, T-Coffeee, Prank, Pal2Nal, Gblocks. All the programs should be installed and path should be added in the bash profile (Unix OS).
 
-'$ perl run_tcoffee.pl -i protein_cluster_dir'
 
-'$ perl run_pal2nal.pl -p protein_alignment_dir -d gene_cluster_dir -c directory_codon_alignments'
+`$ perl run_tcoffee.pl -i protein_cluster_dir`
+
+`$ perl run_pal2nal.pl -p protein_alignment_dir -d gene_cluster_dir -c directory_codon_alignments`
 
 Removal of Unreliable Alignment Regions
 
-'$ perl run_gblocks.pl -i directory_codon_alignments'
+`$ perl run_gblocks.pl -i directory_codon_alignments`
 
 # 4. Recombination
 
