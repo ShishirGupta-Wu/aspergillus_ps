@@ -9,7 +9,7 @@ Additional data and material can be found here: Supplementary data and material.
 
 ## Requirements 
 
-Perl, BioPerl, T-Coffeee, Prank, Pal2Nal, Gblocks, Hyphy, PAML. All the programs should be installed and path should be added in the bash profile (Unix OS).
+Perl, BioPerl, T-Coffeee, Pal2Nal, Gblocks, Hyphy, PAML. All the programs should be installed and path should be added in the bash profile (Unix OS).
 
 ## 1. Sequences
 All the amino acid sequences used can be downloaded from here and nucleotide sequences can be downloaded from here.
