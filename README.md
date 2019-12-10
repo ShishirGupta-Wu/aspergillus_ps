@@ -42,6 +42,7 @@ Place the file in the same directory as the alignment files  and execute the fol
 ## 5. Evolutionary analyses
 
 *Generation of species tree*
+
 Keep script concat_alignments.pl in the directory with amino acid sequence alignment of single copy orthologs   
 
 `$ perl concat_alignments.pl`
