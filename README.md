@@ -12,7 +12,7 @@ Perl, BioPerl, Blast, T-Coffeee, Pal2Nal, Gblocks, Hyphy, RaxML, PAML. All the p
 All the amino acid sequences used can be downloaded from [here](https://funginet.hki-jena.de/data_files/80) and nucleotide sequences can be downloaded from [here](https://funginet.hki-jena.de/data_files/79).
 
 ## 2. Orthology analysis
-Orthology were computed using standerd protocol of OrthoMCL. Please find the access link of software [here](https://orthomcl.org/common/downloads/software/v2.0/orthomclSoftware-v2.0.9.tar.gz) and protocol for computations [here] (https://orthomcl.org/common/downloads/software/v2.0/UserGuide.txtV).
+Orthology were computed using standerd protocol of OrthoMCL. Please find the access link of software [here](https://orthomcl.org/common/downloads/software/v2.0/orthomclSoftware-v2.0.9.tar.gz) and protocol for computations [here](https://orthomcl.org/common/downloads/software/v2.0/UserGuide.txtV).
 
 The resulted cluster from orthology analysis can be obtained [here](https://funginet.hki-jena.de/data_files/76). Single copy ortholog clusters were extracted by the bash script [extract_single_copy_orthologs.sh](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/master/extract_single_copy_orthologs.sh).
 
