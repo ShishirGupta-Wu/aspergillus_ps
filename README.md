@@ -69,32 +69,49 @@ Keep script concat_alignments.pl in the directory with amino acid sequence align
 `$ perl calculating-qvalue-BY.pl combineM1aM2a_addPvalue_gene.list.txt > combinedM1aM2a_addQvalue_gene.list.txt`
 
 ## Supplementary data and material
-Additional data and material can be found here: Supplementary data and material. Sequence Alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
+Additional data and material can be found here in a single zip file. Sequence Alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
 
-Additional data file 1: Clusters of orthologues identified by OrthoMCL (inflation index: 1.5). Abbreviations - abra : Aspergillus brasiliensis, acar : A. carbonarius, acla : A. clavatus, afis : A. fischeri, afla : A. flavus, afum : A. fumigatus, agla : A. glaucus, akaw : A. kawachii, alue : A. luchuensis, anid : A. nidulans, anig : A. niger, aora : A. oryzae, asyd : A. sydowii, ater : A. terreus, atub : A. tubingenesis, aver : A. versicolor, awen : A. wentii, azon : A. zonatus.
+#### Additional data file 1:
 
-Additional data file 2: Core genome of Aspergillus. The file consists of all the clusters containing at least one protein from all the analysed 18 species. Abbreviations - abra : Aspergillus brasiliensis, acar : A. carbonarius, acla : A. clavatus, afis : A. fischeri, afla : A. flavus, afum : A. fumigatus, agla : A. glaucus, akaw : A. kawachii, alue : A. luchuensis, anid : A. nidulans, anig : A. niger, aora : A. oryzae, asyd : A. sydowii, ater : A. terreus, atub : A. tubingenesis, aver : A. versicolor, awen : A. wentii, azon : A. zonatus.
+Clusters of orthologues identified by OrthoMCL (inflation index: 1.5). Abbreviations - abra : *Aspergillus brasiliensis*, acar : *A. carbonarius*, acla : *A. clavatus*, afis : *A. fischeri*, afla : *A. flavus*, afum : *A. fumigatus*, agla : *A. glaucus*, akaw : *A. kawachii*, alue : *A. luchuensis*, anid : *A. nidulans*, anig : *A. niger*, aora : *A. oryzae*, asyd : *A. sydowii*, ater : *A. terreus*, atub : *A. tubingenesis*, aver : *A. versicolor*, awen : *A. wentii*, azon : *A. zonatus*.
 
-Additional data file 3: A. fumigatus and A. fischeri orthology analysis (Inparanoid output).
+#### Additional data file 2:
 
-Additional file 1 –
+Core genome of Aspergillus. The file consists of all the clusters containing at least one protein from all the analysed 18 species. Abbreviations - abra : *Aspergillus brasiliensis*, acar : *A. carbonarius*, acla : *A. clavatus*, afis : *A. fischeri*, afla : *A. flavus*, afum : *A. fumigatus*, agla : *A. glaucus*, akaw : *A. kawachii*, alue : *A. luchuensis*, anid : *A. nidulans*, anig : *A. niger*, aora : *A. oryzae*, asyd : *A. sydowii*, ater : *A. terreus*, atub : *A. tubingenesis*, aver : *A. versicolor*, awen : *A. wentii*, azon : *A. zonatus*.
+
+#### Additional data file 3: 
+
+*A. fumigatus* and *A. fischeri* orthology analysis (Inparanoid output).
+
+#### Additional file 1 –
 
 Table S1. Basic genomic information of all eighteen aspergilli
+
 Table S2. GO over-representation analysis of single copy orthologs in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC) 
+
 Table S3. Quantitative summary of orthology assignments
+
 Table S4. Recombination breakpoints in alignments
-Table S5. GO over-representation analysis of recombination breakpoint containing clusters in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC) 
+
+Table S5. GO over-representation analysis of recombination breakpoint containing clusters in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC)
+
 Table S6. Positively selected genes and KOG annotations
+
 Table S7. Positively selected genes and their expression in hypoxia conditions
-Table S8. A. fumigatus positively selected hub proteins
-Table S9. Degree of A. fumigatus positively selected proteins involved in host interactions
-Table S10. Pathway overrepresentation of host proteins interacting with A. fumigatus positively selected proteins
-Table S11. Gene Ontology (GO) overrepresentation of host proteins interacting with A. fumigatus positively selected proteins
-Table S12. Positively selected genes identified in A. fischeri 
 
-Additional file 2: Supplementary figures -
+Table S8. *A. fumigatus* positively selected hub proteins
 
-Figure S1: Proteins-protein interactions (PPIs) map. PPIs between A. fumigatus proteins coded by positively selected genes (PSGs) and human proteins. Orange - A. fumigatus proteins and blue - human proteins. 
+Table S9. Degree of *A. fumigatus* positively selected proteins involved in host interactions
 
-Figure S2: A. fumigatus and A. fischeri genome synteny map. Image was generated using the Mauve genome alignment tool. Upper and lower lines of the genomes correspond to A. fumigatus and A. fischeri respectively. Red vertical bars indicate concatenated chromosomal boundaries. Color-coded syntenic blocks indicate conserved segments (LCBs; Locally Collinear Blocks) identified by Mauve (minimum LCB weight = 999). Plots of sequence similarity are shown within each syntenic block. Regions with no color indicate no detectable homology between the two genomes with the settings used in Mauve. Unmatched regions (white area) within an LCBs indicate the presence of strain-specific sequence. The connecting lines between blocks indicate the location of each block in two genomes. Homologous regions with possible rearrangements are shown in first row.
+Table S10. Pathway overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
+
+Table S11. Gene Ontology (GO) overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
+
+Table S12. Positively selected genes identified in *A. fischeri* 
+
+#### Additional file 2: Supplementary figures -
+
+Figure S1: Proteins-protein interactions (PPIs) map. PPIs between *A. fumigatus* proteins coded by positively selected genes (PSGs) and human proteins. Orange - *A. fumigatus* proteins and blue - human proteins. 
+
+Figure S2: *A. fumigatus* and *A. fischeri* genome synteny map. Image was generated using the Mauve genome alignment tool. Upper and lower lines of the genomes correspond to *A. fumigatus* and *A. fischeri* respectively. Red vertical bars indicate concatenated chromosomal boundaries. Color-coded syntenic blocks indicate conserved segments (LCBs; Locally Collinear Blocks) identified by Mauve (minimum LCB weight = 999). Plots of sequence similarity are shown within each syntenic block. Regions with no color indicate no detectable homology between the two genomes with the settings used in Mauve. Unmatched regions (white area) within an LCBs indicate the presence of strain-specific sequence. The connecting lines between blocks indicate the location of each block in two genomes. Homologous regions with possible rearrangements are shown in first row.
 
