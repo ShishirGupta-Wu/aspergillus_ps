@@ -9,12 +9,12 @@ Please note that these scripts were not designed to function as a fully-automate
 Perl, BioPerl, Blast, T-Coffeee, Pal2Nal, Gblocks, Hyphy, RaxML, PAML. All the programs should be installed and path should be added in the bash profile (Unix OS).
 
 ## 1. Sequences
-All the amino acid sequences used can be downloaded from here and nucleotide sequences can be downloaded from here.
+All the amino acid sequences used can be downloaded from [here](https://funginet.hki-jena.de/data_files/80) and nucleotide sequences can be downloaded from [here](https://funginet.hki-jena.de/data_files/79).
 
 ## 2. Orthology analysis
-Orthology were computed using standerd protocol of OrthoMCL. Please find the access link of software [here](https://orthomcl.org/common/downloads/software/v2.0/orthomclSoftware-v2.0.9.tar.gz) and protocol for computations [here] https://orthomcl.org/common/downloads/software/v2.0/UserGuide.txtV
+Orthology were computed using standerd protocol of OrthoMCL. Please find the access link of software [here](https://orthomcl.org/common/downloads/software/v2.0/orthomclSoftware-v2.0.9.tar.gz) and protocol for computations [here] (https://orthomcl.org/common/downloads/software/v2.0/UserGuide.txtV).
 
-The resulted cluster from orthology analysis can be obtained [here](https://funginet.hki-jena.de/data_files/76). Single copy ortholog clusters were extracted from the script ..
+The resulted cluster from orthology analysis can be obtained [here](https://funginet.hki-jena.de/data_files/76). Single copy ortholog clusters were extracted by the bash script [extract_single_copy_orthologs.sh](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/master/extract_single_copy_orthologs.sh).
 
 ## 3. Alignments
 
@@ -25,6 +25,8 @@ The resulted cluster from orthology analysis can be obtained [here](https://fung
 *Removal of Unreliable Alignment Regions*
 
 `$ perl run_gblocks.pl -i directory_codon_alignments`
+
+Nucleotide alignment of single copy orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/81).
 
 ## 4. Recombination
 Create a text file named as input_path.txt which should contain the full path to each tested alignment file per line.
