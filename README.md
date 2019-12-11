@@ -73,19 +73,19 @@ Keep script concat_alignments.pl in the directory with amino acid sequence align
 ## Supplementary data and material
 Additional data and material can be found [here](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/master/Supplementary_materials.zip) in a single zip file. Sequence alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
 
-#### Additional data file 1:
+#### [Additional data file 1](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%201.pdf):
 
 Clusters of orthologues identified by OrthoMCL (inflation index: 1.5). Abbreviations - abra : *Aspergillus brasiliensis*, acar : *A. carbonarius*, acla : *A. clavatus*, afis : *A. fischeri*, afla : *A. flavus*, afum : *A. fumigatus*, agla : *A. glaucus*, akaw : *A. kawachii*, alue : *A. luchuensis*, anid : *A. nidulans*, anig : *A. niger*, aora : *A. oryzae*, asyd : *A. sydowii*, ater : *A. terreus*, atub : *A. tubingenesis*, aver : *A. versicolor*, awen : *A. wentii*, azon : *A. zonatus*.
 
-#### Additional data file 2:
+#### [Additional data file 2](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%202.pdf):
 
 Core genome of Aspergillus. The file consists of all the clusters containing at least one protein from all the analysed 18 species. Abbreviations - abra : *Aspergillus brasiliensis*, acar : *A. carbonarius*, acla : *A. clavatus*, afis : *A. fischeri*, afla : *A. flavus*, afum : *A. fumigatus*, agla : *A. glaucus*, akaw : *A. kawachii*, alue : *A. luchuensis*, anid : *A. nidulans*, anig : *A. niger*, aora : *A. oryzae*, asyd : *A. sydowii*, ater : *A. terreus*, atub : *A. tubingenesis*, aver : *A. versicolor*, awen : *A. wentii*, azon : *A. zonatus*.
 
-#### Additional data file 3: 
+#### [Additional data file 3](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%203.pdf): 
 
 *A. fumigatus* and *A. fischeri* orthology analysis (Inparanoid output).
 
-#### Additional file 1 –
+#### [Additional file 1](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20file%201.xlsx) –
 
 Table S1. Basic genomic information of all eighteen aspergilli
 
@@ -111,7 +111,7 @@ Table S11. Gene Ontology (GO) overrepresentation of host proteins interacting wi
 
 Table S12. Positively selected genes identified in *A. fischeri* 
 
-#### Additional file 2: Supplementary figures -
+#### [Additional file 2: Supplementary figures](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20file%202.pdf) -
 
 Figure S1: Proteins-protein interactions (PPIs) map. PPIs between *A. fumigatus* proteins coded by positively selected genes (PSGs) and human proteins. Orange - *A. fumigatus* proteins and blue - human proteins. 
 
