@@ -69,7 +69,7 @@ Keep script concat_alignments.pl in the directory with amino acid sequence align
 `$ perl calculating-qvalue-BY.pl combineM1aM2a_addPvalue_gene.list.txt > combinedM1aM2a_addQvalue_gene.list.txt`
 
 ## Supplementary data and material
-Additional data and material can be found here in a single zip file. Sequence Alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
+Additional data and material can be found [here](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/master/Supplementary_materials.zip) in a single zip file. Sequence alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
 
 #### Additional data file 1:
 
