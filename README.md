@@ -97,17 +97,17 @@ Table S4. Recombination breakpoints in alignments
 
 Table S5. GO over-representation analysis of recombination breakpoint containing clusters in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC)
 
-Table S6. Positively selected genes and KOG annotations
+Table S6. Pathway overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
 
-Table S7. Positively selected genes and their expression in hypoxia conditions
+Table S7. Gene Ontology (GO) overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
 
-Table S8. *A. fumigatus* positively selected hub proteins
+Table S8. Positively selected genes and KOG annotations
 
-Table S9. Degree of *A. fumigatus* positively selected proteins involved in host interactions
+Table S9. Positively selected genes and their expression in hypoxia conditions
 
-Table S10. Pathway overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
+Table S10. *A. fumigatus* positively selected hub proteins
 
-Table S11. Gene Ontology (GO) overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
+Table S11. Degree of *A. fumigatus* positively selected proteins involved in host interactions
 
 Table S12. Positively selected genes identified in *A. fischeri* 
 
