@@ -70,8 +70,16 @@ Keep script concat_alignments.pl in the directory with amino acid sequence align
 
 `$ perl calculating-qvalue-BY.pl combineM1aM2a_addPvalue_gene.list.txt > combinedM1aM2a_addQvalue_gene.list.txt`
 
-## Supplementary data and material
+## Additional files
 Additional data and material can be found [here](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/master/Supplementary_materials.zip) in a single zip file. Sequence alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
+
+#### [Additional file 1: Supplementary figures](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Supplementary_figures.pdf) -
+
+Figure S1: Proteins-protein interactions (PPIs) map. PPIs between *A. fumigatus* proteins coded by positively selected genes (PSGs) and human proteins. Orange - *A. fumigatus* proteins and blue - human proteins.
+
+Figure S2: Gene Ontology (GO) overrepresentation analysis. Biological process (GO) significantly overrepresented in human proteins targeted by *A. fumigatus* virulence related proteins coded by multi-copy category positively selected genes (PSGs).
+
+Figure S3: *A. fumigatus* and *A. fischeri* genome synteny map. Image was generated using the Mauve genome alignment tool. Upper and lower lines of the genomes correspond to *A. fumigatus* and *A. fischeri* respectively. Red vertical bars indicate concatenated chromosomal boundaries. Color-coded syntenic blocks indicate conserved segments (LCBs; Locally Collinear Blocks) identified by Mauve (minimum LCB weight = 999). Plots of sequence similarity are shown within each syntenic block. Regions with no color indicate no detectable homology between the two genomes with the settings used in Mauve. Unmatched regions (white area) within an LCBs indicate the presence of strain-specific sequence. The connecting lines between blocks indicate the location of each block in two genomes. Homologous regions with possible rearrangements are shown in first row.
 
 #### [Additional data file 1](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%201.pdf):
 
@@ -85,35 +93,34 @@ Core genome of Aspergillus. The file consists of all the clusters containing at 
 
 *A. fumigatus* and *A. fischeri* orthology analysis (Inparanoid output).
 
-#### [Additional file 1](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20file%201.xlsx) –
+#### [Additional file 2](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20file%202.xlsx) –
 
-Table S1. Basic genomic information of all eighteen aspergilli
+Table S1. Conservancy of *A. fumigatus* specific genes in other *A. fumigatus* strains
 
-Table S2. GO over-representation analysis of single copy orthologs in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC) 
+Table S2. Basic genomic information of all eighteen aspergilli
 
-Table S3. Quantitative summary of orthology assignments
+Table S3. GO over-representation analysis of single copy orthologs in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC)
 
-Table S4. Recombination breakpoints in alignments
+Table S4. Quantitative summary of orthology assignments
 
 Table S5. GO over-representation analysis of recombination breakpoint containing clusters in the three GO categories (i.e. ‘Biological Processes’, BP; ‘Molecular Function’, MF; ‘Cellular Component’, CC)
 
-Table S6. Pathway overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
+Table S6. Pathway overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
 
-Table S7. Gene Ontology (GO) overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
+Table S7. Gene Ontology (GO) overrepresentation of host proteins interacting with *A. fumigatus* positively selected proteins
 
 Table S8. Positively selected genes and KOG annotations
 
-Table S9. Positively selected genes and their expression in hypoxia conditions
+Table S9. Positively selected multi-gene family virulence genes identified in *A. fumigatus*
 
-Table S10. *A. fumigatus* positively selected hub proteins
+Table S10. Genes from top three GO-biological processes with reference to ortholog relation to amoeba species *A. castellanii* and *D. discoideum*
 
-Table S11. Degree of *A. fumigatus* positively selected proteins involved in host interactions
+Table S11. Positively selected genes and their expression in hypoxia conditions
 
-Table S12. Positively selected genes identified in *A. fischeri* 
+Table S12. *A. fumigatus* positively selected hub proteins
 
-#### [Additional file 2: Supplementary figures](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20file%202.pdf) -
+Table S13. Degree of *A. fumigatus* positively selected proteins involved in host interactions
 
-Figure S1: Proteins-protein interactions (PPIs) map. PPIs between *A. fumigatus* proteins coded by positively selected genes (PSGs) and human proteins. Orange - *A. fumigatus* proteins and blue - human proteins. 
+Table S14. Positively selected genes identified in *A. fischeri*
 
-Figure S2: *A. fumigatus* and *A. fischeri* genome synteny map. Image was generated using the Mauve genome alignment tool. Upper and lower lines of the genomes correspond to *A. fumigatus* and *A. fischeri* respectively. Red vertical bars indicate concatenated chromosomal boundaries. Color-coded syntenic blocks indicate conserved segments (LCBs; Locally Collinear Blocks) identified by Mauve (minimum LCB weight = 999). Plots of sequence similarity are shown within each syntenic block. Regions with no color indicate no detectable homology between the two genomes with the settings used in Mauve. Unmatched regions (white area) within an LCBs indicate the presence of strain-specific sequence. The connecting lines between blocks indicate the location of each block in two genomes. Homologous regions with possible rearrangements are shown in first row.
-
+Table S15. Recombination breakpoints in alignments
