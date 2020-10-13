@@ -1,5 +1,5 @@
 # Analysis of Positive Selection in Aspergillus
-In this repository we describe the workflow followed to process and analyze the data of the study "*Genetic comparison of Aspergillus fumigatus with 18 other species of the genus Aspergillus reveals conservation, evolution and specific virulence genes*".
+In this repository we describe the workflow followed to process and analyze the data of the study "*Comparative genomics reveal conservation, evolution and virulence traits in Aspergillus species*".
 
 ## Issues & Contacts
 Please note that these scripts were not designed to function as a fully-automated pipeline, but rather as a series of individual steps with extensive manual quality control between them. It will therefore not be straightforward to run all steps smoothly in one go. Feel free to contact me (shishir.gupta@uni-wuerzburg.de) or [Prof. Dr. Thomas Dandekar](https://www.biozentrum.uni-wuerzburg.de/bioinfo/research/groups/funct-genomics-systems-biology/people/thomas-dandekar/) (dandekar@biozentrum.uni-wuerzburg.de) if you run into any issue.
