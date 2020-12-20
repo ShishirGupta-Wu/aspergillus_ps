@@ -81,15 +81,15 @@ Figure S2: Gene Ontology (GO) overrepresentation analysis. Biological process (G
 
 Figure S3: *A. fumigatus* and *A. fischeri* genome synteny map. Image was generated using the Mauve genome alignment tool. Upper and lower lines of the genomes correspond to *A. fumigatus* and *A. fischeri* respectively. Red vertical bars indicate concatenated chromosomal boundaries. Color-coded syntenic blocks indicate conserved segments (LCBs; Locally Collinear Blocks) identified by Mauve (minimum LCB weight = 999). Plots of sequence similarity are shown within each syntenic block. Regions with no color indicate no detectable homology between the two genomes with the settings used in Mauve. Unmatched regions (white area) within an LCBs indicate the presence of strain-specific sequence. The connecting lines between blocks indicate the location of each block in two genomes. Homologous regions with possible rearrangements are shown in first row.
 
-#### [Additional data file 1](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%201.pdf):
+#### [Additional file 1: data file 1](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%201.pdf):
 
 Clusters of orthologues identified by OrthoMCL (inflation index: 1.5). Abbreviations - abra : *Aspergillus brasiliensis*, acar : *A. carbonarius*, acla : *A. clavatus*, afis : *A. fischeri*, afla : *A. flavus*, afum : *A. fumigatus*, agla : *A. glaucus*, akaw : *A. kawachii*, alue : *A. luchuensis*, anid : *A. nidulans*, anig : *A. niger*, aora : *A. oryzae*, asyd : *A. sydowii*, ater : *A. terreus*, atub : *A. tubingenesis*, aver : *A. versicolor*, awen : *A. wentii*, azon : *A. zonatus*.
 
-#### [Additional data file 2](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%202.pdf):
+#### [Additional file 1: data file 2](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%202.pdf):
 
 Core genome of Aspergillus. The file consists of all the clusters containing at least one protein from all the analysed 18 species. Abbreviations - abra : *Aspergillus brasiliensis*, acar : *A. carbonarius*, acla : *A. clavatus*, afis : *A. fischeri*, afla : *A. flavus*, afum : *A. fumigatus*, agla : *A. glaucus*, akaw : *A. kawachii*, alue : *A. luchuensis*, anid : *A. nidulans*, anig : *A. niger*, aora : *A. oryzae*, asyd : *A. sydowii*, ater : *A. terreus*, atub : *A. tubingenesis*, aver : *A. versicolor*, awen : *A. wentii*, azon : *A. zonatus*.
 
-#### [Additional data file 3](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%203.pdf): 
+#### [Additional file 1: data file 3](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20data%20file%203.pdf): 
 
 *A. fumigatus* and *A. fischeri* orthology analysis (Inparanoid output).
 
@@ -124,3 +124,5 @@ Table S13. Degree of *A. fumigatus* positively selected proteins involved in h
 Table S14. Positively selected genes identified in *A. fischeri*
 
 Table S15. Recombination breakpoints in alignments
+
+#### [Additional file 3: Supplemental methods](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional_file3.pdf)
