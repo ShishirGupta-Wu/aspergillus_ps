@@ -125,4 +125,4 @@ Table S14. Positively selected genes identified in *A. fischeri*
 
 Table S15. Recombination breakpoints in alignments
 
-#### [Additional file 3: Supplemental methods](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional_file3.pdf)
+#### [Additional file 3: Supplemental methods](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/Additional%20file%203.pdf)
