@@ -115,3 +115,4 @@ Figure S1: Proteins-protein interactions (PPIs) map. PPIs between *A. fumigatus*
 
 Figure S2: *A. fumigatus* and *A. fischeri* genome synteny map. Image was generated using the Mauve genome alignment tool. Upper and lower lines of the genomes correspond to *A. fumigatus* and *A. fischeri* respectively. Red vertical bars indicate concatenated chromosomal boundaries. Color-coded syntenic blocks indicate conserved segments (LCBs; Locally Collinear Blocks) identified by Mauve (minimum LCB weight = 999). Plots of sequence similarity are shown within each syntenic block. Regions with no color indicate no detectable homology between the two genomes with the settings used in Mauve. Unmatched regions (white area) within an LCBs indicate the presence of strain-specific sequence. The connecting lines between blocks indicate the location of each block in two genomes. Homologous regions with possible rearrangements are shown in first row.
 
+
