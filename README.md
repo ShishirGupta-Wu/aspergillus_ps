@@ -70,6 +70,15 @@ Keep script concat_alignments.pl in the directory with amino acid sequence align
 
 `$ perl calculating-qvalue-BY.pl combineM1aM2a_addPvalue_gene.list.txt > combinedM1aM2a_addQvalue_gene.list.txt`
 
+## Data files
+
+#### [Accession number: good quality CDS](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/accession_number_good_quality_CDS.txt)
+Please click [here](https://funginet.hki-jena.de/data_files/84) to access the 2,08,055 CDS sequence file in Zip format.
+
+#### [Accession number: good quality proteins](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/supplementary_data/accession_number_good_quality_proteins.txt)
+Please click [here](https://funginet.hki-jena.de/data_files/85) to access the 2,08,055 amino acid sequence file in Zip format.
+
+
 ## Additional files
 Additional data and material can be found [here](https://github.com/ShishirGupta-Wu/aspergillus_ps/blob/master/Supplementary_materials.zip) in a single zip file. Sequence alighment of Single Copy Orthologs can be obtained from [here](https://funginet.hki-jena.de/data_files/76)
 
